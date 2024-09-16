@@ -12,3 +12,8 @@ Q* (Q-star) got its name from A* Search and Q Learning. A* is a distance-based l
 while Q Learning is a machine learning method to form the best decisions given a problem. By combining both techniques, Q* is able to achieve logic and reasoning abilities relative
 to its counterparts. Currently, Q* can solve basic math problems. Though this may seem insignificant, it is a huge step towards achieving AGI, as the foundations of logical
 reasoning and decision-making are being set. 
+
+
+# Alex Hsu (hsualexotake)
+
+Super interesting article. As you mentoined, right now there are major road blocks; however, I wonder what the landscape will look like in a few years with more resources and time dedicated. With the advancements of algorithms such as Q*, it is only a matter of time before there are AIs featuring AGI. 
