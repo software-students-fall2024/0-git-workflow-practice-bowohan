@@ -14,6 +14,6 @@ to its counterparts. Currently, Q* can solve basic math problems. Though this ma
 reasoning and decision-making are being set. 
 
 
-# Alex Hsu (hsualexotake)
+# Alex Hsu (hsualexotake / aoh2015)
 
 Super interesting article. As you mentoined, right now there are major road blocks; however, I wonder what the landscape will look like in a few years with more resources and time dedicated. With the advancements of algorithms such as Q*, it is only a matter of time before there are AIs featuring AGI. 
